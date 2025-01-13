@@ -27,5 +27,5 @@ Após finalizado, fiz apenas pequenos ajustes de tamanho.
 ## 🚀 Resultados
 Um desenho feito a mão utilizando grafite de uma esculura romana da época do renascimento.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 A chave para alcançar resultados de acordo com o esperado está nos prompts de comando, ou seja quanto mais específico e detalhado for o prompt, maior é a possibilidade de alcançar os resultados esperados.
